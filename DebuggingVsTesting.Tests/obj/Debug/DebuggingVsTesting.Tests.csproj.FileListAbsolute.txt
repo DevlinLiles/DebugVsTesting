@@ -1,0 +1,15 @@
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\DebuggingVsTesting.Tests.dll
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\DebuggingVsTesting.Tests.pdb
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\Common.Logging.dll
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\DebuggingVsTesting.dll
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\nunit.framework.dll
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\Rhino.Mocks.dll
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\TechTalk.SpecFlow.dll
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\DebuggingVsTesting.pdb
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\Common.Logging.pdb
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\Common.Logging.xml
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\nunit.framework.xml
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\bin\Debug\Rhino.Mocks.xml
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\obj\Debug\DebuggingVsTesting.Tests.csprojResolveAssemblyReference.cache
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\obj\Debug\DebuggingVsTesting.Tests.dll
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting.Tests\obj\Debug\DebuggingVsTesting.Tests.pdb

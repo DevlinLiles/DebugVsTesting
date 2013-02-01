@@ -1,0 +1,4 @@
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting\bin\Debug\DebuggingVsTesting.dll
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting\bin\Debug\DebuggingVsTesting.pdb
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting\obj\Debug\DebuggingVsTesting.dll
+E:\Code\Fun\DebuggingVsTesting\DebuggingVsTesting\obj\Debug\DebuggingVsTesting.pdb
